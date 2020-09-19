@@ -159,7 +159,7 @@ hr{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    border: solid 4px salmon;
+    border: solid 4px lightslategray;
 }
 
 .online-reputation-management {
@@ -169,7 +169,7 @@ hr{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    border: solid 4px aquamarine;
+    border: solid 4px lightslategray;
 }
 
 .social-media-marketing {
@@ -179,19 +179,31 @@ hr{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    border: solid 4px lightgoldenrodyellow;
+    border: solid 4px lightslategray;
 }
 
 .search-engine-optimization img {
     max-height: 200px;
+    box-shadow: 10px 10px 5px darkslategray;
+      -moz-box-shadow: 10px 10px 5px darkslategrey;
+      -webkit-box-shadow: 10px 10px 5px darkslategrey;
+      -khtml-box-shadow: 10px 10px 5px darkslategray;
 }
 
 .online-reputation-management img {
     max-height: 200px;
+    box-shadow: 10px 10px 5px darkslategray;
+      -moz-box-shadow: 10px 10px 5px darkslategrey;
+      -webkit-box-shadow: 10px 10px 5px darkslategrey;
+      -khtml-box-shadow: 10px 10px 5px darkslategray;
 }
 
 .social-media-marketing img {
     max-height: 200px;
+    box-shadow: 10px 10px 5px darkslategray;
+      -moz-box-shadow: 10px 10px 5px darkslategrey;
+      -webkit-box-shadow: 10px 10px 5px darkslategrey;
+      -khtml-box-shadow: 10px 10px 5px darkslategray;
 }
 
 .search-engine-optimization h2 {
