@@ -71,6 +71,12 @@ p {
     background-position: center;
 }
 
+hr{
+    height: 3px;
+    border: solid 1px black;
+}
+
+
 .float-left {
     float: left;
     margin-right: 25px;
