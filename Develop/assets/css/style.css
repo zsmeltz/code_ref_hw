@@ -149,6 +149,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    border: solid 4px salmon;
 }
 
 .online-reputation-management {
@@ -158,6 +159,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    border: solid 4px aquamarine;
 }
 
 .social-media-marketing {
@@ -167,6 +169,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    border: solid 4px lightgoldenrodyellow;
 }
 
 .search-engine-optimization img {
