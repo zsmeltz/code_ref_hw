@@ -7,6 +7,10 @@
 body {
     background-color: #d9dcd6;
 }
+p:hover{
+    font-size: 25px;
+    text-shadow: 3px 3px darkslategrey;
+}
 
 .header {
     padding: 20px;
