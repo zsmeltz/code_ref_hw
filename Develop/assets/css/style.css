@@ -102,6 +102,8 @@ hr{
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    border: solid 3px darkslateblue;
+    border-style: ridge;
 }
 
 .benefit-lead {
