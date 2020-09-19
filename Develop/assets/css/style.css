@@ -46,6 +46,12 @@ a {
     text-decoration: none;
 }
 
+a:hover{
+    font-size: 30px;
+    text-shadow: 3px 3px darkslategrey;
+    text-decoration: underline;
+}
+
 p {
     font-size: 16px;
 }
