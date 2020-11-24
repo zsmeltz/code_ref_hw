@@ -19,6 +19,9 @@ p:hover{
     color: #ffffff;
     position: fixed;
     width: 100%;
+    list-style-type: none;
+    display: flex 1;
+    
 }
 
 .header h1 {
@@ -26,7 +29,7 @@ p:hover{
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -38,11 +41,11 @@ p:hover{
     font-size: 20px;
 }
 
-.header div ul {
+ div ul {
     list-style-type: none;
 }
 
-.header div ul li {
+ div ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -154,7 +157,7 @@ hr{
     max-width: 150px;
 }
 
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -184,7 +187,7 @@ hr{
     border: solid 4px lightslategray;
 }
 
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
     box-shadow: 10px 10px 5px darkslategray;
       -moz-box-shadow: 10px 10px 5px darkslategrey;
